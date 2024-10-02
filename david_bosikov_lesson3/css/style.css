@@ -1,0 +1,95 @@
+.centered_page {
+    width: 1291px;
+    margin: 54px auto 0 auto;
+}
+
+header {
+    margin-bottom: 44px;
+}
+
+.logo {
+    font-size: 48px;
+    font-weight: 700;
+    color: #30CBC2;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+}
+
+.navigation {
+    display: inline-block;
+}
+
+.active_nav {
+    color: #4E6FAE;
+}
+
+li {
+    font-size: 26px;
+    font-weight: 700;
+    color: #8D81FF;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 81px;
+}
+
+.date {
+    font-size: 24px;
+    width: 50px;
+    height: 50px;
+    background-color: #5012D5;
+    color: #84FF81;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 18px;
+}
+
+section {
+    margin-bottom: 155px;
+}
+
+.content_img {
+    margin-right: 50px;
+
+}
+
+.month {
+    font-size: 24px;
+    font-weight: 400;
+    color: #8D81FF;
+    margin-bottom: 8px;
+}
+
+.header {
+    font-size: 20px;
+    font-weight: 700;
+    color: #4E6FAE;
+    margin-bottom: 13px;
+}
+
+.description {
+    width: 778px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4E6FAE;
+    line-height: 19.2px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.different_description {
+    display: block;
+    margin-top: 32px;
+}
+
+footer {
+    margin-bottom: 285px;
+}
+
+.line {
+    display: inline-block;
+    background-color: #5012D5;
+    width: 2px;
+    height: 50px;
+    margin: 0 41px;
+}
